@@ -1,0 +1,29 @@
+Country,region,year,RP_level,OBI,Credit_Rating,Macro_var,KAOPEN,Moody's ,Moody's num,S&P,S&P num,Fitch,Fitch num,exchange rate regime,FX_regime
+Albania,EE,2018,1.342419409,50,8.7,0.34855802,0.42,B1,7,B+,9,B+,10,floating,2
+Bolivia,LA,2017,1.531189366,17,9.7,0.36369324,0.45,Ba3,8,BB-,10,BB-,11,stabilized arrangement,3
+Brazil,LA,2017,3.35422048,77,10.7,2.91940191,0.16,Ba2,9,BB,11,BB,12,floating,2
+Bulgaria,EE,2018,0.976279205,66,13.3,-0.49248942,1.00,Baa2,12,BBB-,13,BBB,15,currency board,6
+Cambodia,SEA,2019,3.878587076,20,7.0,0.53288151,1.00,B2,6,B,8,,,crawl like arrangement,3
+Chile,LA,2017,0.789470019,58,18.3,0.67813639,0.70,Aa3,17,AA-,19,A+,19,free floating,1
+Colombia,LA,2017,2.535227461,57,13.3,1.64110708,0.42,Baa2,12,BBB-,13,BBB,15,floating,2
+Costa Rica,LA,2017,3.075852603,54,10.7,-0.84127559,1.00,Ba1,10,BB-,10,BB,12,crawl like arrangement,4
+Croatia,EE,2018,1.915008517,57,11.0,-1.00405667,0.70,Ba2,9,BB,11,BB+,13,stabilized arrangement,3
+Dominican Republic,LA,2017,3.179694015,51,9.0,-1.2201348,0.70,B1,7,BB-,10,B+,10,crawl like arrangement,4
+El Salvador,LA,2017,5.773862477,53,7.3,-0.27572202,0.70,B3,5,B-,7,B+,10,no separate legal tender,7
+Guatemala,LA,2017,2.303870329,46,11.0,0.17915922,1.00,Ba1,10,BB,11,BB,12,stabilized arrangement,3
+Honduras,LA,2017,3.663935897,43,8.3,-0.03932878,0.16,B2,6,B+,9,B+,10,crawling peg,5
+Indonesia,SEA,2019,2.073521484,64,13.7,0.54933612,0.42,Baa2,12,BBB,14,BBB,15,floating,2
+Malaysia,SEA,2019,0.765430216,46,15.7,-0.8064728,0.42,A3,14,A-,16,A-,17,floating,1
+Mexico,LA,2017,2.117737107,66,15.0,0.40800909,0.70,A3,14,BBB+,15,BBB+,16,free floating,1
+North Macedonia,EE,2018,2.557218653,37,12.0,-0.29171887,0.45,,,BB,11,BB+,13,stabilized arrangement,3
+Peru,LA,2017,1.053877331,75,15.0,0.03581262,1.00,A3,14,BBB+,15,BBB+,16,floating,2
+Philippines,SEA,2019,1.110839544,67,14.0,-0.11221853,0.45,Baa2,12,BBB+,15,BBB,15,floating,2
+Poland,EE,2018,0.789722827,60,16.0,-1.50012808,0.70,A2,15,A-,16,A-,17,free floating,1
+Romania,EE,2018,1.323349175,64,12.7,0.06288697,1.00,Baa3,11,BBB-,13,BBB-,14,stabilized arrangement,3
+Slovenia,EE,2018,0.789803007,68,16.0,-1.83211861,0.70,Baa1,13,A,17,A,18,free floating,1
+Thailand,SEA,2019,1.753698473,56,14.7,-1.51982793,0.16,Baa1,13,BBB+,15,BBB+,16,floating,2
+Ukraine,EE,2018,5.08780559,63,6.0,2.95847505,0.00,Caa2,3,B-,7,B-,8,stabilized arrangement,3
+Vietnam,SEA,2019,1.706130751,15,10.3,-1.34861374,0.42,Ba3,8,BB,11,BB,12,stabilized arrangement,3
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
